@@ -2,4 +2,4 @@
 
 ## [Day 1: Titanic - Random Forest](./Day-1)
 
-## [Exercise: Syntax, Variables, and Numbers](./Day-2)
+## [Day 2: Exercise: Syntax, Variables, and Numbers](./Day-2)
