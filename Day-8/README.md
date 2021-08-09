@@ -1,6 +1,7 @@
 # Day 8
 
-## Tasks: Working with External Libraries
+## Tasks: How Models Work & Basic Data Exploration
 
-1. [Read this tutorial](https://www.kaggle.com/colinmorris/working-with-external-libraries) (from Lesson 7 of the Python course)
-2. [Complete this exercise](https://www.kaggle.com/kernels/fork/1275190) (from Lesson 7 of the Python course)
+1. [Read this tutorial](https://www.kaggle.com/dansbecker/how-models-work) (from Lesson 1 of the Intro to ML course)
+2. [Read this tutorial](https://www.kaggle.com/dansbecker/basic-data-exploration) (Read this tutorial (from Lesson 2 of the Intro to ML course))
+3. [Complete this exercise](https://www.kaggle.com/kernels/fork/1258954) (from Lesson 2 of the Intro to ML course)
