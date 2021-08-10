@@ -4,7 +4,7 @@
 
 ### [Day 1: Titanic - Random Forest](./Day-1)
 
-### [Day 2: Exercise: Syntax, Variables, and Numbers](./Day-2)
+### [Day 2: Hello, Python](./Day-2)
 
 ### [Day 3: Functions and Getting Help](./Day-3)
 
