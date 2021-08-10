@@ -2,7 +2,6 @@
 
 ## [Python](https://www.kaggle.com/learn/python)
 
----
 ### [Day 1: Titanic - Random Forest](./Day-1)
 
 ### [Day 2: Exercise: Syntax, Variables, and Numbers](./Day-2)
@@ -22,3 +21,5 @@
 ## [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### [Day 8: How Models Work & Basic Data Exploration](./Day-8)
+
+### [Day 9: Your First Machine Learning Model & Model Validation](./Day-9)
