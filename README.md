@@ -35,3 +35,5 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ### [Day 9: Your First Machine Learning Model & Model Validation](./Day-9)
 
 ### [Day 10: Underfitting and Overfitting & Random Forests](./Day-10)
+
+### [Day 11: Machine Learning Competitions](./Day-11)
