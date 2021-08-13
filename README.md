@@ -37,3 +37,9 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ### [Day 10: Underfitting and Overfitting & Random Forests](./Day-10)
 
 ### [Day 11: Machine Learning Competitions](./Day-11)
+
+---
+
+## [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+
+### [Day 12: Introduction & Missing Values & Categorical Variables](./Day-12)
