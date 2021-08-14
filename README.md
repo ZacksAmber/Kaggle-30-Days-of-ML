@@ -45,3 +45,5 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ### [Day 12: Introduction & Missing Values & Categorical Variables](./Day-12)
 
 ### [Day 13: Pipelines & Cross-Validation](./Day-13)
+
+### [Day 14: XGBoost & Data Leakage](./Day-14)
