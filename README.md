@@ -43,3 +43,5 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ## [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 ### [Day 12: Introduction & Missing Values & Categorical Variables](./Day-12)
+
+### [Day 13: Pipelines & Cross-Validation](./Day-13)
