@@ -47,3 +47,9 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ### [Day 13: Pipelines & Cross-Validation](./Day-13)
 
 ### [Day 14: XGBoost & Data Leakage](./Day-14)
+
+---
+
+## [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+
+### [Extra Day 14: Feature Engineering](./Extra-Day-14)

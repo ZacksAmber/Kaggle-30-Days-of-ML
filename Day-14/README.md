@@ -1,5 +1,4 @@
 # Day 14
-
 ## Tasks: XGBoost & Data Leakage
 
 1. [Read this tutorial](https://www.kaggle.com/alexisbcook/xgboost) (from Lesson 6 of the Intermediate ML course)
