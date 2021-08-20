@@ -2,6 +2,12 @@
 
 ## [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 
+- Tutorial: The link of Kaggle tutorial.
+- Course Content: Almost the same content from Tutorial, maybe I added a little change. You can run it on your local machine.
+- Exercise: My exercise answer from Kaggle course exercise.
+
+---
+
 ### What is Feature Engineering
 
 > [Tutorial](https://www.kaggle.com/ryanholbrook/what-is-feature-engineering)<br>
