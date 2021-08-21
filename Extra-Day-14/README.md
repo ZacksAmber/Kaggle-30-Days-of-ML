@@ -4,7 +4,7 @@
 
 - Tutorial: The link of Kaggle tutorial.
 - Course Content: Almost the same content from Tutorial, maybe I added a little change. You can run it on your local machine.
-- Exercise: My exercise answer from Kaggle course exercise.
+- Exercise: My exercise answer from Kaggle course exercise. You cannot run it on your local machine.
 
 ---
 
