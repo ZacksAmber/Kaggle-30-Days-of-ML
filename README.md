@@ -1,12 +1,17 @@
 # Kaggle 30 Days of ML
 
-## [30 Days of ML](https://www.kaggle.com/thirty-days-of-ml)
+## [30 Days of ML Introduction](https://www.kaggle.com/thirty-days-of-ml)
 
 In the first 2 weeks, you’ll receive hands-on assignments delivered to your inbox. The goal of these assignments is to rapidly cover the most essential skills needed to get your hands dirty with data. You'll start by learning how to code in Python and quickly learn how to build your first machine learning model.
 
 After tackling these core concepts, you’ll be invited to a super fun, beginner-friendly Kaggle machine learning competition to test your knowledge. Through practice, you’ll explore the best ways to use Kaggle as a learning resource and connect with other data scientists.
 
 On top of all of this, you’ll have the opportunity to attend elective workshops and seminars hosted by data scientists from Google's Developer Experts Program. The challenge kicks off on August 2nd and only requires a Kaggle account.
+
+The three courses from Kaggle 30 Days of ML
+- Python
+- Intro to Machine Learning
+- Intermediate Machine Learning
 
 ---
 
@@ -53,3 +58,9 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ## [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 
 ### [Extra Day 14: Feature Engineering](./Extra-Day-14)
+
+---
+
+## [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+
+### [Extra Day 14: Data Visualization](./Extra-Day-19)

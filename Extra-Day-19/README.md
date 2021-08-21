@@ -11,61 +11,58 @@
 ### Hello, Seaborn
 
 > [Tutorial](https://www.kaggle.com/alexisbcook/hello-seaborn)<br>
-> Course Content
-> Exercise
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/hello-seaborn.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-hello-seaborn.ipynb)
 
 ---
 
 ### Line Charts
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/line-charts)<br>
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/line-charts.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-line-charts.ipynb)
 
 ---
 
 ### Bar Charts and Heatmaps
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/bar-charts-and-heatmaps)<br>
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/bar-charts-and-heatmaps.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-bar-charts-and-heatmaps.ipynb)
 
 ---
 
 ### Scatter Plots
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/scatter-plots)<br>
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/scatter-plots.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-scatter-plots.ipynb)
 
 ---
 
 ### Distributions
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/distributions)<br>
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/distributions.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-distributions.ipynb)
 
 ---
 
 ### Choosing Plot Types and Custom Styles
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/choosing-plot-types-and-custom-styles)<br>
+> [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/choosing-plot-types-and-custom-styles.ipynb)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-choosing-plot-types-and-custom-styles.ipynb)
 
 ---
 
 ### Final Project
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/final-project)<br>
+> [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-19/exercise-final-project.ipynb)
 
 ---
 
 ### Creating Your Own Notebooks
 
-> Tutorial
-> Course Content
-> Exercise
+> [Tutorial](https://www.kaggle.com/alexisbcook/creating-your-own-notebooks)
