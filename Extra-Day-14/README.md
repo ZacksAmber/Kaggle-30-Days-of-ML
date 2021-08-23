@@ -38,6 +38,8 @@
 > [Course Content](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-14/clustering-with-k-means.ipynb)<br>
 > [Exercise](https://github.com/ZacksAmber/Kaggle-30-Days-of-ML/blob/main/Extra-Day-14/exercise-clustering-with-k-means.ipynb)
 
+Some features are meaningless for ML. For example, longitude and latitude are just numbers, and they have unlimited combinations. However, if we can identify their clusters, the *area (longitude & latitude)* is meaningful for prediction.
+
 ---
 
 
