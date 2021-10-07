@@ -64,3 +64,10 @@ The three courses from Kaggle 30 Days of ML
 ## [Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
 ### [Extra Day 14: Data Visualization](./Extra-Day-19)
+
+
+---
+
+## [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+
+### [Day 66: Data Cleaning](./Day-66)
