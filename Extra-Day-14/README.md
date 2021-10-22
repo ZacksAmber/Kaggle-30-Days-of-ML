@@ -13,6 +13,9 @@
 > [Tutorial](https://www.kaggle.com/ryanholbrook/what-is-feature-engineering)<br>
 > [Course Content](concrete-baseline.ipynb)
 
+Packages:
+- [sklearn.model_selection.cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+
 ---
 
 ### Mutual Information
@@ -20,6 +23,10 @@
 > [Tutorial](https://www.kaggle.com/ryanholbrook/mutual-information)<br>
 > [Course Content](automobile-mutual-information.ipynb)<br>
 > [Exercise](exercise-mutual-information.ipynb)
+
+Packages:
+- [sklearn.feature_selection.mutual_info_regression](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_regression.html)<br>
+- [sklearn.feature_selection.mutual_info_classif](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html)
 
 ---
 
@@ -31,7 +38,6 @@
 
 ---
 
-
 ### Clustering with K-Means
 
 > [Tutorial](https://www.kaggle.com/ryanholbrook/clustering-with-k-means)<br>
@@ -40,14 +46,19 @@
 
 Some features are meaningless for ML. For example, longitude and latitude are just numbers, and they have unlimited combinations. However, if we can identify their clusters, the *area (longitude & latitude)* is meaningful for prediction.
 
----
+Packages:
+- [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 
+---
 
 ### Principal Component Analysis
 
 > [Tutorial](https://www.kaggle.com/ryanholbrook/principal-component-analysis)<br>
 > [Course Content](principal-component-analysis.ipynb)<br>
 > [Exercise](exercise-principal-component-analysis.ipynb)
+
+Packages:
+- [sklearn.decomposition.PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
 ---
 
@@ -57,3 +68,6 @@ Some features are meaningless for ML. For example, longitude and latitude are ju
 > [Tutorial](https://www.kaggle.com/ryanholbrook/target-encoding)<br>
 > [Course Content](target-encoding.ipynb)<br>
 > [Exercise](exercise-target-encoding.ipynb)
+
+Packages:
+- [category_encoders](https://contrib.scikit-learn.org/category_encoders/)
